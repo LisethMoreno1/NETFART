@@ -293,7 +293,7 @@ body {
 
 .knowledge_container{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr  ;
+  grid-template-columns: 1fr 1fr 1fr 1fr   ;
   gap:2em;
   /* align-items: center; */
 
